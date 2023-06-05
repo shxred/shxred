@@ -1,12 +1,12 @@
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=shxred&color=006bed)
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🎓 &nbsp; Estudando **Ciencias da Computacão** na <a href="https://www.cruzeirodosul.edu.br/">Cruzeiro do Sul</a>.
+- 💼 &nbsp; Trabalhando como **Assistente de Suporte N1** na <a href="https://cliqx.com.br">Cliqx</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Lua, VUE Js e MongoDB**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -21,6 +21,7 @@
   ![Python]
 
 **Utilidades**
+
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps**
@@ -31,18 +32,18 @@
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
 
-<a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+<a href="https://github.com/shxred">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shxred&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Eduardho Carneiro](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardho-costa/)](https://www.linkedin.com/in/eduardho-costa/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardhoc@gmail.com)](mailto:eduardhoc@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/shxred)
+[![Linkedin: Eduardho Carneiro](https://img.shields.io/badge/-Eduardho%20Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardho-costa/)](https://www.linkedin.com/in/eduardho-costa/)
+[![Gmail Badge](https://img.shields.io/badge/-eduardhoc@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardhoc@gmail.com)](mailto:eduardhoc@gmail.com)
+[![GitHub shxred]( https://img.shields.io/github/followers/shxred?label=follow&style=social)](https://github.com/shxred)
