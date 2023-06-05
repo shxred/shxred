@@ -18,7 +18,8 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Python]
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
 
 **Utilidades**
 
@@ -32,7 +33,7 @@
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-333333?style=flat&logo=visual-studio&logoColor=007ACC)
 
 <br/>
 
