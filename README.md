@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Ciencias da Computacão** na <a href="https://www.cruzeirodosul.edu.br/">Cruzeiro do Sul</a>.
 - 💼 &nbsp; Trabalhando como **B2C** na <a href="https://snog.com.br">Snog</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Lua, VUE Js e MongoDB**.
+- 🌱 &nbsp; Aprendendo mais sobre **Lua, C# e Python**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
