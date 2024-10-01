@@ -1,11 +1,11 @@
 
 ![](https://komarev.com/ghpvc/?username=shxred&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> 🙇‍♂️: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Ciencias da Computacão** na <a href="https://www.cruzeirodosul.edu.br/">Cruzeiro do Sul</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **C# e Python**.
+- 🌱 &nbsp; Aprendendo mais sobre **FastAPI, Flask, Django e SqlServer**.
 - 💼 &nbsp; Trabalhando atualmente como **Estágiario** no Itaú Unibanco.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -18,8 +18,11 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SqlServer](https://img.shields.io/badge/-SqlServer-333333?style=flat&logo=sqlserver)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 
 **Utilidades**
 
