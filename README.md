@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Ciencias da Computacão** na <a href="https://www.cruzeirodosul.edu.br/">Cruzeiro do Sul</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **FastAPI, Flask, Django e SqlServer**.
-- 💼 &nbsp; Trabalhando atualmente como **Estágiario** no Itaú Unibanco.
+- 💼 &nbsp; Trabalhando atualmente como **Analista de Engenharia Jr** no Itaú Unibanco.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
